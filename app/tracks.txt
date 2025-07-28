@@ -1,0 +1,4 @@
+title,artist,coverUrl,trackUrl
+Гори, Москва-река,САДко,https://i.scdn.co/image/ab67616d0000b2737d7a1e0b3c6a0b3a9e0d9e9c,/audio/sadko.mp3
+Feeling Good,Nina Simone,https://i.scdn.co/image/ab67616d0000b2731c3c43c21a11e85732c56f83,/audio/nina-simone.mp3
+Fever,Peggy Lee,https://i.scdn.co/image/ab67616d0000b273b436f0142a53e33c69818b85,/audio/peggy-lee.mp3
